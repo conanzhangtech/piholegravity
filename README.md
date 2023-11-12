@@ -17,4 +17,4 @@ match your game theme.
 WARNING: Do not get too carried away. If you're shape takes more than 5 lines
 of code to draw then you've probably over done it.
 
-** Only submit your sketch.js **
+**Only submit your sketch.js**
